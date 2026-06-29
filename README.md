@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://githubroast.dev/u/Blue-Berrys"><img src="https://githubroast.dev/api/badge/Blue-Berrys" alt="GitHub Roast 评分徽章" /></a>
 <!--
 **Blue-Berrys/Blue-Berrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
